@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f2420a32d25fec647b1463c7f60dc33f
+timeCreated: 1453375618
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54247
+  packageName: AutoSaver - Don't waste time anymore!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MHLab/AutoSaver/Editor/AutoSaverEditor.cs
+  uploadId: 99079
